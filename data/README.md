@@ -1,10 +1,26 @@
-# Data Exploration
+# Data
 
 This folder hosts datasets and notes related to SEDA, UI, Census, and other external data relevant to the project
 
-# Google drive
+## Sources
 
-Official data files and documentation relevant to the project are stored on a [google drive directory](https://drive.google.com/drive/u/0/folders/1CSoQL3VQ9FpjGpFYu8N8i3HVJ8CjGmEZ)
+Each data source corresponds with a subdirectory in this folder
+
+### Census
+
+### SEDA
+
+### NCES
+
+- shools - information about school enrollment and school location datasets
+- istricts - information about NCES EDGE school district dataset
+- atendance_zones - information about SABS and SABINS attendance zone datasets
+
+NCES data are too large to be stored in the repository, and are instead available in [google drive](https://drive.google.com/drive/u/0/folders/1CSoQL3VQ9FpjGpFYu8N8i3HVJ8CjGmEZ):
+
+
+### Urban Institute
+
 
 # Directory descriptions (WIP)
 
