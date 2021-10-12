@@ -4,3 +4,8 @@ references.bib
 *obsidian/workspace
 data/nces/
 data/aw/
+data/NCES/schools/ccd_schools_universe_0910.txt
+data/NCES/districts/us_school_districts_2010.parquet
+data/NCES/districts/districts_1516.parquet
+data/NCES/attendance_zones/sabs_1516.parquet
+data/NCES/attendance_zones/us_sabins_01_0910_.parquet

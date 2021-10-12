@@ -12,9 +12,9 @@ Each data source corresponds with a subdirectory in this folder
 
 ### NCES
 
-- shools - information about school enrollment and school location datasets
-- istricts - information about NCES EDGE school district dataset
-- atendance_zones - information about SABS and SABINS attendance zone datasets
+- schools - school enrollment and school location datasets
+- districts - school district datasets
+- atendance_zones - SABS and SABINS attendance zone datasets
 
 NCES data are too large to be stored in the repository, and are instead available in [google drive](https://drive.google.com/drive/u/0/folders/1CSoQL3VQ9FpjGpFYu8N8i3HVJ8CjGmEZ):
 
